@@ -1,5 +1,9 @@
 # Olist E-commerce: Late Deliveries, Customer Satisfaction and Where to Fix Them
 
+**Live interactive dashboard (open it in your browser, no install): https://dhaifallahms-source.github.io/olist-sql-delivery-analysis/dashboard/**
+
+[![Interactive dashboard preview](dashboard/preview.png)](https://dhaifallahms-source.github.io/olist-sql-delivery-analysis/dashboard/)
+
 SQL Server analysis of the public Olist Brazilian e-commerce dataset (about 100k orders, 2016-2018).
 The project asks one business question: **do late deliveries hurt customer reviews and repeat purchases, and where should logistics be fixed first?**
 
