@@ -83,3 +83,10 @@ Each file starts with a header: business question, tables, logic, finding and no
 - Repeat purchase is rare in this dataset (about 3%), and "repeat" means any later order from the same `customer_unique_id`.
 - The z-test counts in `06b` are typed in by hand from query 06.
 - Revenue in query 01 is the sum of item prices for delivered orders (freight excluded). 2016 has very few orders because the platform was just starting.
+
+
+## Part 2: Python and interactive dashboard
+
+The follow-up project asks which orders are likely to arrive late, using purchase-time information only (pandas, scikit-learn): [python/](python/).
+
+Interactive dashboard (4 pages, no install needed): https://dhaifallahms-source.github.io/olist-sql-delivery-analysis/dashboard/
